@@ -1,1 +1,1 @@
-# roadmapsh-github-user-activity-cli
+# GitHub User Activity app
